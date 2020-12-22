@@ -7,7 +7,7 @@ using namespace std;
 
 int main() {
     
-    // List ()
+    // List
 
     list<int> aula;
     int tam;
