@@ -3,7 +3,7 @@ Problems and code of class
 
 - Curso online - https://www.youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40
 
-<<<<<<< HEAD
+
 ### In Code_of_Classe (of course online)
 
 - Aula 21: Argumentos para a função main, argc, argv
@@ -26,7 +26,7 @@ Problems and code of class
 - Aula 38: Ponteiros p3
 - Aula 39: Alocação dinâmica de memória
 
-<<<<<<< HEAD
+
 ### Code of book
 
 - Chapter 1: 0%
