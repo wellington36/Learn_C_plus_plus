@@ -24,3 +24,6 @@ Problems and code of class
 - Aula 37: Ponteiros p2
 - Aula 38: Ponteiros p3
 - Aula 39: Alocação dinâmica de memória
+
+### Code of book
+- Chapter 1: 0%
