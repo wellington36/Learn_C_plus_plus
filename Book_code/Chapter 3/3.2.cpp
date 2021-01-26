@@ -14,6 +14,19 @@ class Vector {
         int sz;
 };
 
+Vector::Vector(int s)
+    :elem{new double[s]}, sz{s}     // initialize members
+{
+}
+
+double& Vector::operator[](int i) {
+    return elem[i];
+}
+
+int Vector::size() {
+    return sz;
+}
+
 double sqrt_sum(Vector& v) {
     double sum = 0;
 
