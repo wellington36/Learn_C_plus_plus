@@ -31,4 +31,5 @@ Problems and code of Course online and Book tour of C++
 
 - Chapter 1 - The Basic:            Complete
 - Chapter 2 - User Defined Types:   Complete
-- Chapter 3 - Modularity:           Making
+- Chapter 3 - Modularity:           Complete
+- Chapter 4 - Classes:              Making
